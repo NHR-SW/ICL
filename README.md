@@ -6,9 +6,9 @@
 
 ## Contents
 
-1. Basic in-context learning demonstration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pGiXjeNIZde8NA9KkZ9bdNSPK4CcXJCB?usp=sharing)
+1. Basic in-context learning demonstration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wmSKTMm80PP5V_53ktuTyxK8cjye52JQ?usp=sharing)
 
-2. The Impact of Demonstration Quality [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z1pHRE-KaYDIq1TDWiAFrYO7Fpmxhprw?usp=sharing)
+2. The Impact of Demonstration Quality [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pGiXjeNIZde8NA9KkZ9bdNSPK4CcXJCB?usp=sharing)
 
 3. Customizing Templates for In-Context Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
