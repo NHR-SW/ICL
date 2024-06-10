@@ -16,4 +16,4 @@
 
 5. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F3TYPYPS2r8AOoVgrI1KakDE0n55jegZ?usp=sharing)
 
-6. Title?? [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+6. LLM Agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169kxizh8gRX9P5P51TTk7p2bi2-S0YmP?usp=sharing)
